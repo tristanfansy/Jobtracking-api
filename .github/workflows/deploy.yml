@@ -9,7 +9,7 @@ permissions:
   contents: read
 
 env:
-  AZURE_WEBAPP_NAME: Jobtracking-api  # 改成你的 Web App 名
+  AZURE_WEBAPP_NAME: Jobtracking  # 改成你的 Web App 名
   DOTNET_VERSION: '8.0.x'                   # 改成 6.0.x / 7.0.x / 8.0.x
   PROJECT_PATH: './JobTracking.csproj'  # 改成你的 csproj 路径
 
